@@ -9,7 +9,7 @@
 <hr>
 Package Contents:
 
-### [Data](https://github.com/shriparna/sql-challenge/tree/main/data)
+### [data](https://github.com/shriparna/sql-challenge/tree/main/data)
 1. [departments.csv](https://github.com/shriparna/sql-challenge/blob/main/data/departments.csv) Input File
 2. [dept_emp.csv](https://github.com/shriparna/sql-challenge/blob/main/data/dept_emp.csv) Input File
 3. [dept_manager.csv](https://github.com/shriparna/sql-challenge/blob/main/data/dept_manager.csv) Input File
@@ -30,7 +30,7 @@ Package Contents:
 ## Instructions:
 
 - Entity Relationship Diagram gives the relationship between the tables
-- SQL Scemata file drops the table if existing the create the table and then load the data from the csv files. Please note that there was issue in the mac to read files from Data directory so files were copied in the /tmp directory. Please change the directory appropriately to your own directory 
+- SQL Scemata file drop the tables if existing then create the tables and then load the data from the csv files. Please note that there was issue in the mac to read files from my data directory so files were copied in the /tmp directory. Please change the directory appropriately to your own directory 
 - SQL Data Analysis gives all the sql queries which needs to be run one after the other. Please note that in #6 the department is shown just to ensure that all the records are from Sales department 
 - For BONUS pandasSQL.ipynb
     - Activate PythonData using conda activate PythonData
