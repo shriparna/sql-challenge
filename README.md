@@ -24,7 +24,7 @@ Package Contents:
 1. [sql_challenge_ERD.png](https://github.com/shriparna/sql-challenge/blob/main/EmployeeSQL/sql_challenge_ERD.png) Entity Relationship Diagram (ERD) to be evaluated
 2. [sql_challenge_table_schemata.sql](https://github.com/shriparna/sql-challenge/blob/main/EmployeeSQL/sql_challenge_table_schemata.sql) SQL Schemata file to be evaluated
 3. [sql_challenge_data_analysis.sql](https://github.com/shriparna/sql-challenge/blob/main/EmployeeSQL/sql_challenge_data_analysis.sql) SQL Data Analysis file to be evaluated
-4. [pandasSQL.ipynb]() BONUS Data loading into DataFrame from csv and doing the Data Analysis using Pandas
+4. [pandasSQL.ipynb](https://github.com/shriparna/sql-challenge/blob/main/EmployeeSQL/pandasSQL.ipynb) BONUS Data loading into DataFrame from csv and doing the Data Analysis using Pandas
 <hr>
 
 ## Instructions:
